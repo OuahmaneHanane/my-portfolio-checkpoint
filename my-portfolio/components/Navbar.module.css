@@ -1,0 +1,27 @@
+.nav {
+  background-color: #1a202c;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.logo {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.link {
+  margin-left: 1rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}

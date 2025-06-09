@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.bannerWrapper {
+  position: relative; /* Required for fill layout */
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow: hidden; /* Ensures rounded corners are visible */
+}
+.ctaButton {
+  display: inline-block;
+  background-color: #0070f3;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.ctaButton:hover {
+  background-color: #005bb5;
+}
