@@ -1,4 +1,6 @@
-# my-portfolio-checkpointA personal portfolio built with Next.js showcasing my projects, skills, and contact info.
+# my-portfolio-checkpoint
+
+A personal portfolio built with Next.js showcasing my projects, skills, and contact info.
 
 ## Features
 Responsive layout with custom styling
